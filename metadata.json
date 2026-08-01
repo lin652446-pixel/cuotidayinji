@@ -1,0 +1,6 @@
+{
+  "name": "错题举一反三打印机",
+  "description": "全科通用的错题识别与举一反三练习生成工具，支持AI拍照识题、智能知识点拆解、生成3道同类变式题与易错点剖析，以及PDF排版下载和打印。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
